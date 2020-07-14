@@ -13,11 +13,11 @@ import java.util.Scanner;
 public class simple_project {
     public static void main(String[] args) throws IOException {
         // writing in to file
-        FileOutputStream file = new FileOutputStream("balance.txt");
-        String s = "1000";
-        byte b[] = s.getBytes();
-        file.write(b);
-        file.close();
+ //       FileOutputStream file = new FileOutputStream("balance.txt");
+ //       String s = "1000";
+ //       byte b[] = s.getBytes();
+ //       file.write(b);
+ //       file.close();
 
         //reading back form the file
         Scanner Sc1 = new Scanner(new File("balance.txt"));
