@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "CodeLens (Launch) - main10",
+            "request": "launch",
+            "mainClass": "INTER_FACE.collections.main10",
+            "projectName": "Java_d39c2137"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - main5",
+            "request": "launch",
+            "mainClass": "INTER_FACE.collections.main5",
+            "projectName": "Java_d39c2137"
+        },
+        {
             "name": "Java",
             "type": "java",
             "request": "launch",
